@@ -1,4 +1,4 @@
-                                                                     Knowledge Graph for Books::
+Knowledge Graph for Books
 This project creates and visualizes a knowledge graph for books based on a CSV file containing information about book titles, authors, publication years, and publishers.
 
 Prerequisites
